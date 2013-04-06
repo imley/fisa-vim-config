@@ -292,3 +292,6 @@ let g:AutoClosePumvisible = {"ENTER": "\<C-Y>", "ESC": "\<ESC>"}
 
 " Syntax on
 syntax on
+
+let g:Powerline_symbols = 'unicode'
+set backspace=start,indent,eol
